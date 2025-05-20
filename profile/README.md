@@ -60,7 +60,7 @@ Unleash your creativity with **Affinity Designer Pro 2025**! This professional v
 ### 🖼 Preview
 
 **Affinity Designer Interface**  
-![Designer UI](https://blog-frontend.envato.com/cdn-cgi/image/width=1024,quality=75,format=auto/uploads/2020/04/Affinity-Designer-Color-Palettes.jpg)  
+![Designer UI](https://affinity.help/publisher2/shared/fontsize_after.png)  
 *Main workspace for vector and raster design.*
 
 
